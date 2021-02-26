@@ -1,0 +1,23 @@
+body {
+  height:100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://149398021.v2.pressablecdn.com/wp-content/uploads/2019/12/clouds19.jpg");
+}
+
+h3,.App {
+  font-family: monospace;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.input {
+  text-align: center;
+  text-decoration: whitesmoke;
+  text-overflow: ellipsis;
+  color: black;
+  font-size: x-large;
+  font-weight: bolder;
+  font-size: xx-large;
+}
